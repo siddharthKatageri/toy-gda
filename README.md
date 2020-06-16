@@ -26,7 +26,7 @@ It's probability density function is as follows:
 
 A multivariate gaussian in 2 dimension would look something like this, where the right hand side image shows the contour plot of the gaussian.
 <p align="center">
-<img src="./files/multigaussplot.PNG" width=400>
+<img src="./files/multigaussplot.png" width=400>
 </p>
 <br/>
 
@@ -51,14 +51,14 @@ density function.
 A two dimensional dataset with 100 data points from class A and 100 data points from
 class B, where the red points show their mean.
 <p align="center">
-<img src="./files/scatter.PNG" width=400>
+<img src="./files/scatter.png" width=400>
 </p>
 
 #### Contour plot with decision boundary
 After fitting Gaussians to both class independently, we can get an approximation
 of the decision boundary as show in the contour plot.
 <p align="center">
-<img src="./files/contour.PNG" width=400>
+<img src="./files/contour.png" width=400>
 </p>
 
 #### 3D visualization of Gaussians
